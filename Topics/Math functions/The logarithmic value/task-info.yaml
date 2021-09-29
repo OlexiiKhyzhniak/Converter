@@ -1,0 +1,17 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  learner_created: false
+- name: fix.py
+  visible: true
+  learner_created: true
+- name: CMYK.txt
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/6345#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sun, 18 Apr 2021 11:19:02 UTC
+record: -1

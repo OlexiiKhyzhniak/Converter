@@ -1,0 +1,15 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: '# write the code here'
+  learner_created: false
+- name: input.txt
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/8338#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sun, 18 Apr 2021 13:04:42 UTC
+record: -1
